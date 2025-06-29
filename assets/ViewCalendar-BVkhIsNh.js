@@ -1,0 +1,1 @@
+import{c as a,j as s}from"./index-Bw0gljeF.js";function t(){const{id:e}=a();return s.jsxs("div",{className:"p-6",children:[s.jsxs("h1",{className:"text-xl font-bold",children:["Detailed calendar for Provider ID: ",e]}),s.jsx("p",{className:"text-gray-500",children:"Coming soon…"})]})}export{t as default};
